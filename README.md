@@ -1,0 +1,3 @@
+# LeetCode
+Accept Answers for LeetCode with the simplest code
+...
